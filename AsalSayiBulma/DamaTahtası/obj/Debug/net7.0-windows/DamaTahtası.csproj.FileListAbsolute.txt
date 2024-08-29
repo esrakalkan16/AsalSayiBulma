@@ -1,0 +1,16 @@
+C:\Users\esra\source\repos\AsalSayiBulma\DamaTahtası\obj\Debug\net7.0-windows\DamaTahtası.Form1.resources
+C:\Users\esra\source\repos\AsalSayiBulma\DamaTahtası\obj\Debug\net7.0-windows\DamaTahtası.csproj.GenerateResource.cache
+C:\Users\esra\source\repos\AsalSayiBulma\DamaTahtası\obj\Debug\net7.0-windows\DamaTahtası.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esra\source\repos\AsalSayiBulma\DamaTahtası\obj\Debug\net7.0-windows\DamaTahtası.AssemblyInfoInputs.cache
+C:\Users\esra\source\repos\AsalSayiBulma\DamaTahtası\obj\Debug\net7.0-windows\DamaTahtası.AssemblyInfo.cs
+C:\Users\esra\source\repos\AsalSayiBulma\DamaTahtası\obj\Debug\net7.0-windows\DamaTahtası.csproj.CoreCompileInputs.cache
+C:\Users\esra\source\repos\AsalSayiBulma\DamaTahtası\bin\Debug\net7.0-windows\DamaTahtası.exe
+C:\Users\esra\source\repos\AsalSayiBulma\DamaTahtası\bin\Debug\net7.0-windows\DamaTahtası.deps.json
+C:\Users\esra\source\repos\AsalSayiBulma\DamaTahtası\bin\Debug\net7.0-windows\DamaTahtası.runtimeconfig.json
+C:\Users\esra\source\repos\AsalSayiBulma\DamaTahtası\bin\Debug\net7.0-windows\DamaTahtası.dll
+C:\Users\esra\source\repos\AsalSayiBulma\DamaTahtası\bin\Debug\net7.0-windows\DamaTahtası.pdb
+C:\Users\esra\source\repos\AsalSayiBulma\DamaTahtası\obj\Debug\net7.0-windows\DamaTahtası.dll
+C:\Users\esra\source\repos\AsalSayiBulma\DamaTahtası\obj\Debug\net7.0-windows\refint\DamaTahtası.dll
+C:\Users\esra\source\repos\AsalSayiBulma\DamaTahtası\obj\Debug\net7.0-windows\DamaTahtası.pdb
+C:\Users\esra\source\repos\AsalSayiBulma\DamaTahtası\obj\Debug\net7.0-windows\DamaTahtası.genruntimeconfig.cache
+C:\Users\esra\source\repos\AsalSayiBulma\DamaTahtası\obj\Debug\net7.0-windows\ref\DamaTahtası.dll

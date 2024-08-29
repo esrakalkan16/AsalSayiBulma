@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DamaTahtası": {
+      "commandName": "Project",
+      "jsWebView2Debugging": true
+    }
+  }
+}

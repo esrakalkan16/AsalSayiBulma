@@ -1,0 +1,7 @@
+C:\Users\esra\source\repos\AsalSayiBulma\AsalSayiBulma\bin\Debug\AsalSayiBulma.exe.config
+C:\Users\esra\source\repos\AsalSayiBulma\AsalSayiBulma\bin\Debug\AsalSayiBulma.exe
+C:\Users\esra\source\repos\AsalSayiBulma\AsalSayiBulma\bin\Debug\AsalSayiBulma.pdb
+C:\Users\esra\source\repos\AsalSayiBulma\AsalSayiBulma\obj\Debug\AsalSayiBulma.csproj.AssemblyReference.cache
+C:\Users\esra\source\repos\AsalSayiBulma\AsalSayiBulma\obj\Debug\AsalSayiBulma.csproj.CoreCompileInputs.cache
+C:\Users\esra\source\repos\AsalSayiBulma\AsalSayiBulma\obj\Debug\AsalSayiBulma.exe
+C:\Users\esra\source\repos\AsalSayiBulma\AsalSayiBulma\obj\Debug\AsalSayiBulma.pdb
